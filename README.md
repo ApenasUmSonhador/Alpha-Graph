@@ -15,10 +15,10 @@ Permite criar grafos manualmente, executar algoritmos passo a passo com animaç�
 
 ## 📸 Preview (Protótipo)
 
-> Protótipo inicial criado no Figma / Wireframe
+> Protótipo inicial criado no Excalidraw / Wireframe
 
-_(Aqui será inserido o print do design, que ainda está em desenvolvimento)_  
-📌 [Wireframe Inicial](#)
+![Protótipo de baixa fidelidade](image.png) 
+📌 [Wireframe Inicial](https://excalidraw.com/#json=RYSTbwH_KI0lT_wQixDsY,E9Aj_8E8ZWcVeAsqkO79VA)
 
 ---
 
@@ -41,7 +41,7 @@ Alpha-Graph/
 ├── frontend/   # Next.js + Tailwind + React Flow
 ├── backend/    # Node.js + Express + Prisma
 ├── graph-core/ # Algoritmos de grafos em TypeScript
-└── README.md
+└── README.md   # Documentação do projeto
 ```
 
 ---
