@@ -17,7 +17,7 @@ Permite criar grafos manualmente, executar algoritmos passo a passo com animaç�
 
 > Protótipo inicial criado no Excalidraw / Wireframe
 
-![Protótipo de baixa fidelidade](image.png) 
+![Protótipo de baixa fidelidade](image.png)     
 📌 [Wireframe Inicial](https://excalidraw.com/#json=RYSTbwH_KI0lT_wQixDsY,E9Aj_8E8ZWcVeAsqkO79VA)
 
 ---
